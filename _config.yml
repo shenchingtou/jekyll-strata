@@ -28,7 +28,7 @@ social-network-links:
 markdown: kramdown
 highlighter: rouge
 
-baseurl: ""
+url: "https://shenchingtou.github.io/jekyll-strata"
 
 # Sass/SCSS
 sass:
